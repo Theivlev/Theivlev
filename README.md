@@ -24,12 +24,13 @@
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
 
 **Backend**
-<img align="right" height="20px" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
-<img align="right" height="20px" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" />
-<img align="right" height="20px" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
-<img align="right" height="20px" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
-<img align="right" height="20px" src="https://img.shields.io/badge/Kafka-%23231F20.svg?logo=apachekafka&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?logo=rabbitmq&logoColor=white" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Kafka-%23231F20.svg?logo=apachekafka&logoColor=white" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
+<img align="right" height="20px" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" />
+<img align="right" height="20px" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
+
 
 **Library**
 <img align="right" height="20px" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
@@ -41,14 +42,14 @@
 
 
 **Deploy**
-<img align="right" height="20px" src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white" />
-<img align="right" height="20px" src="https://github.com/unbit/uwsgi/blob/master/logo_uWSGI.svg" />
-<img align="right" height="20px" src="https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-<img align="right" height="20px" src="https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?logo=docker&logoColor=white" />
-<img align="right" height="20px" src="https://img.shields.io/badge/Uvicorn-%23ffcd4a.svg?logo=python&logoColor=black" />
-<img align="right" height="20px" src="https://img.shields.io/badge/ASGI-%23004080.svg?logo=fastapi&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white" />
+<img align="right" height="20px" src="https://img.shields.io/badge/ASGI-%23004080.svg?logo=fastapi&logoColor=white" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Uvicorn-%23ffcd4a.svg?logo=python&logoColor=black" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" />
+<img align="right" height="20px" src="https://github.com/unbit/uwsgi/blob/master/logo_uWSGI.svg" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white" />
 
 
 **Operating Systems**
