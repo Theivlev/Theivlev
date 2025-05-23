@@ -26,7 +26,6 @@
 
 
 **Library**
-<img align="right" height="20px" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
 <img align="right" height="20px" src="https://static.wixstatic.com/media/cb8344_68f518accddf4e8c9ec5994f9cfd3880~mv2.png/v1/fill/w_1000,h_464,al_c,q_90,usm_0.66_1.00_0.01/cb8344_68f518accddf4e8c9ec5994f9cfd3880~mv2.png" />
 <img align="right" height="20px" src="https://img.shields.io/badge/Loki-%23006C9C.svg?logo=loki&logoColor=white" />
