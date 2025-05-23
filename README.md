@@ -61,7 +61,3 @@
 <img align="right" src="https://img.shields.io/badge/English-A2-blue?logo=united-kingdom&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Russian-mother%20tongue-green?logo=russia&logoColor=white" />
 
----
-
-### ⚙️ GitHub статистика:
-<img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stafeeff-dmitrij&layout=compact&theme=vision-friendly-dark"/>
