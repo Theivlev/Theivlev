@@ -44,11 +44,11 @@
 **Deploy**
 <img align="right" height="20px" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/ASGI-%23004080.svg?logo=fastapi&logoColor=white" />
+<img align="right" height="20px" src="https://github.com/unbit/uwsgi/blob/master/logo_uWSGI.svg" />
 <img align="right" height="20px" src="https://img.shields.io/badge/Uvicorn-%23ffcd4a.svg?logo=python&logoColor=black" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-<img align="right" height="20px" src="https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" />
-<img align="right" height="20px" src="https://github.com/unbit/uwsgi/blob/master/logo_uWSGI.svg" />
 <img align="right" height="20px" src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white" />
 
 
