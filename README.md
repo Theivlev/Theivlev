@@ -16,12 +16,12 @@
 <img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
 
 **Database**
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-<img align="right" height="20px" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
-<img align="right" height="20px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
-<img align="right" height="20px" src="https://img.shields.io/badge/ClickHouse-%23FFC300.svg?logo=clickhouse&logoColor=black" />
-<img align="right" height="20px" src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?logo=elasticsearch&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?logo=elasticsearch&logoColor=white" />
+<img align="right" height="20px" src="https://img.shields.io/badge/ClickHouse-%23FFC300.svg?logo=clickhouse&logoColor=black" />
+<img align="right" height="20px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+<img align="right" height="20px" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
 
 **Backend**
 <img align="right" height="20px" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
