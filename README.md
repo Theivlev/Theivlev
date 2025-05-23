@@ -3,12 +3,6 @@
 
 ---
 
-### :man_technologist: О себе:
-
-Я Python-программист, увлеченный разработкой и новыми технологиями. 
-
----
-
 ## Skills
 
 **Programming Languages**
