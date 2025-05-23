@@ -56,7 +56,6 @@
 <img align="right" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 
 
-
 **Languages**  
 <img align="right" src="https://img.shields.io/badge/English-A2-blue?logo=united-kingdom&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Russian-mother%20tongue-green?logo=russia&logoColor=white" />
