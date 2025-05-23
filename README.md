@@ -1,4 +1,3 @@
-<img src="assets/eat-sleep-code-repeat-black-background.png" alt="Обои">
 
 # Привет, меня зовут Алексей! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
@@ -55,6 +54,12 @@
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+
+
+---
+
+### ⚙️ GitHub статистика:
+<img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theivlev&layout=compact&theme=vision-friendly-dark"/>
 
 
 **Languages**  
