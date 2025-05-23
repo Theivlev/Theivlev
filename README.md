@@ -56,11 +56,6 @@
 <img align="right" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 
 
----
-
-### ⚙️ GitHub статистика:
-<img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theivlev&layout=compact&theme=vision-friendly-dark"/>
-
 
 **Languages**  
 <img align="right" src="https://img.shields.io/badge/English-A2-blue?logo=united-kingdom&logoColor=white" />
