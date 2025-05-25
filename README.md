@@ -28,7 +28,7 @@
 **Library**
 <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
 <img align="right" height="20px" src="https://static.wixstatic.com/media/cb8344_68f518accddf4e8c9ec5994f9cfd3880~mv2.png/v1/fill/w_1000,h_464,al_c,q_90,usm_0.66_1.00_0.01/cb8344_68f518accddf4e8c9ec5994f9cfd3880~mv2.png" />
-<img align="right" height="20px" src="https://img.shields.io/badge/Loki-%23006C9C.svg?logo=loki&logoColor=white" />
+<img align="right" height="20px" src="https://img.shields.io/badge/Logstash-%23E6522C.svg?logo=logstash&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/Kibana-%23E8478B.svg?logo=kibana&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
 <img align="right" height="20px" src="https://img.shields.io/badge/Aiogram-%23004080.svg?style=for-the-badge&logo=telegram&logoColor=white" />
